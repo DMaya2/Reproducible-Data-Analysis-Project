@@ -9,7 +9,7 @@ The Datasets used are;
 
 Variable description for each data is given below.
 
-2018-19_nba_player-statistics.csv  
+2018-19_nba_player-statistics.csv. 
 This data file provides total statistics for individual NBA players during the 2018-19 season. The variables consist:
 player_name : Player Name
 Pos :  (PG = point guard, SG = shooting guard, SF = small forward, PF = power forward, C = center) 
@@ -41,19 +41,19 @@ TOV : Turnovers
 PF : Personal Fouls
 PTS : Points
 
-2018-19_nba_player-salaries.csv 
+2018-19_nba_player-salaries.csv.
 This data file contains the salary for individual players during the 2018-19 NBA season. The variables consist:
 player_id : unique player identification number
 player_name : player name
 salary : year salary in $USD
  
-2018-19_nba_team-payroll.csv 
+2018-19_nba_team-payroll.csv. 
 This data file contains the team payroll budget for the 2019-20 NBA season. The variables consist:
 team_id : unique team identification number
 team : team name
 salary : team payroll budget in 2019-20 in $USD
  
-2018-19_nba_team-statistics_1.csv 
+2018-19_nba_team-statistics_1.csv.
 This data file contains miscellaneous team statistics for the 2018-19 season. The variables consist:
 Rk : Rank
 Age : Mean Age of Player at the start of February 1st of that season.
@@ -78,7 +78,7 @@ FT/FGA : Free Throws Per Field Goal Attempt
 DRB% : Defensive Rebound Percentage
  
 
-2018-19_nba_team-statistics_2.csv 
+2018-19_nba_team-statistics_2.csv. 
 This data file contains total team statistics for the 2018-19 NBA season. The variables consist:
 Rk : Ranking
 Team : Team name
